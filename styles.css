@@ -12,7 +12,7 @@ body {
 }
 
 .header img {
-  max-width: 100%;
+  width: 180px;
 }
 
 /* Estilos para el menú */
@@ -64,7 +64,7 @@ body {
 }
 
 .title h2 {
-  padding: 10px;
+  padding: 5px 10px 0 10px ;
   text-align: center;
   font-size: 30px;
   margin: 0 auto;
@@ -80,7 +80,7 @@ body {
 
 .product {
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .product img {
@@ -125,5 +125,5 @@ body {
 }
 
 .footer img {
-  height: 90px;
+  height: 80px;
 }
